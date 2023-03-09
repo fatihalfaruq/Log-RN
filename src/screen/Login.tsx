@@ -8,7 +8,7 @@ export default class Login extends Component {
     return (
       <View style={styles.con}>
         <Image style={styles.img} source={require('../assets/image/e.png')} />
-        <Text style={styles.Log}>LLogin</Text>
+        <Text style={styles.Log}>Login</Text>
         <Text style={styles.tx}>silahkan login</Text>
         <Text style={styles.tx2}>selamat datang di ipon store</Text>
 
